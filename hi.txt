@@ -3,3 +3,4 @@ Second line
 Third line added in "first" branch 
 4th line added
 5th line added
+6th line added from remote
